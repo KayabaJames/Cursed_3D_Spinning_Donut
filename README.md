@@ -10,4 +10,4 @@ to<br>
 <code>OBJS = Main.o CursedDonut.o</code><br>
 <br>
 <h2>Result</h2>
-![](result.gif)
+<img src="result.gif">
