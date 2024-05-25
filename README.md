@@ -7,4 +7,7 @@ For clearing all compiled objects, use the <code>make clean</code> command.<br><
 To use the cursed syntax version of Donut.cpp, change the code in line 11 of Makefile from<br>
 <code>OBJS = Main.o Donut.o</code><br>
 to<br>
-<code>OBJS = Main.o CursedDonut.o</code>
+<code>OBJS = Main.o CursedDonut.o</code><br>
+<br>
+<h2>Result</h2>
+![](result.gif)
